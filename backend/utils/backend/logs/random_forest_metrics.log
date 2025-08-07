@@ -1,0 +1,16 @@
+
+=== Random Forest Regressor - 2025-08-07 18:54:51 ===
+Training Time: 6.64 sec
+Train Metrics:
+  MAE: 6437.15
+  RMSE: 22385.77
+  R²: 0.986640
+  Adjusted R²: 0.986620
+  MAPE: 6.86 %
+Test Metrics:
+  MAE: 18000.93
+  RMSE: 54352.98
+  R²: 0.920226
+  Adjusted R²: 0.919764
+  MAPE: 16.63 %
+===============================================
