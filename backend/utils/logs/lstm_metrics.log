@@ -1,0 +1,32 @@
+
+=== LSTM Regressor - 2025-08-08 02:35:01 ===
+Training Time: 963.35 sec
+Train Metrics:
+  MAE: 15067.01
+  RMSE: 96074.79
+  R²: 0.753909
+  Adjusted R²: 1.974815
+  MAPE: 6.49 %
+Test Metrics:
+  MAE: 29927.06
+  RMSE: 101042.15
+  R²: 0.724311
+  Adjusted R²: 1.068731
+  MAPE: 29.36 %
+===============================================
+
+=== LSTM Regressor - 2025-08-08 18:58:53 ===
+Training Time: 995.22 sec
+Train Metrics:
+  MAE: 13893.35
+  RMSE: 91332.02
+  R²: 0.777606
+  Adjusted R²: 1.880946
+  MAPE: 6.21 %
+Test Metrics:
+  MAE: 29222.20
+  RMSE: 96970.51
+  R²: 0.746082
+  Adjusted R²: 1.063303
+  MAPE: 29.15 %
+===============================================

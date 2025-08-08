@@ -1,0 +1,32 @@
+
+=== AdaBoost - 2025-08-08 13:19:17 ===
+Training Time: 9.11 sec
+Train Metrics:
+  MAE: 50711.72
+  RMSE: 97971.98
+  R²: 0.744094
+  Adjusted R²: 0.743725
+  MAPE: 107.46 %
+Test Metrics:
+  MAE: 51146.30
+  RMSE: 98571.48
+  R²: 0.737629
+  Adjusted R²: 0.736110
+  MAPE: 100.64 %
+===============================================
+
+=== AdaBoost - 2025-08-08 18:59:22 ===
+Training Time: 9.25 sec
+Train Metrics:
+  MAE: 50711.72
+  RMSE: 97971.98
+  R²: 0.744094
+  Adjusted R²: 0.743725
+  MAPE: 107.46 %
+Test Metrics:
+  MAE: 51146.30
+  RMSE: 98571.48
+  R²: 0.737629
+  Adjusted R²: 0.736110
+  MAPE: 100.64 %
+===============================================

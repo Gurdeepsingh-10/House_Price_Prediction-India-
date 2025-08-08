@@ -1,0 +1,32 @@
+
+=== LightGBM Regressor - 2025-08-07 21:07:06 ===
+Training Time: 0.24 sec
+Train Metrics:
+  MAE: 19266.96
+  RMSE: 47644.88
+  R²: 0.939479
+  Adjusted R²: 0.939391
+  MAPE: 29.55 %
+Test Metrics:
+  MAE: 23810.24
+  RMSE: 59862.01
+  R²: 0.903235
+  Adjusted R²: 0.902675
+  MAPE: 29.22 %
+===============================================
+
+=== LightGBM Regressor - 2025-08-08 18:41:46 ===
+Training Time: 0.30 sec
+Train Metrics:
+  MAE: 19266.96
+  RMSE: 47644.88
+  R²: 0.939479
+  Adjusted R²: 0.939391
+  MAPE: 29.55 %
+Test Metrics:
+  MAE: 23810.24
+  RMSE: 59862.01
+  R²: 0.903235
+  Adjusted R²: 0.902675
+  MAPE: 29.22 %
+===============================================

@@ -1,0 +1,32 @@
+
+=== KNN - 2025-08-08 13:16:31 ===
+Training Time: 0.08 sec
+Train Metrics:
+  MAE: 53.99
+  RMSE: 1496.02
+  R²: 0.999940
+  Adjusted R²: 0.999940
+  MAPE: 0.02 %
+Test Metrics:
+  MAE: 21247.12
+  RMSE: 63897.70
+  R²: 0.889748
+  Adjusted R²: 0.889111
+  MAPE: 20.90 %
+===============================================
+
+=== KNN - 2025-08-08 18:59:13 ===
+Training Time: 0.07 sec
+Train Metrics:
+  MAE: 53.99
+  RMSE: 1496.02
+  R²: 0.999940
+  Adjusted R²: 0.999940
+  MAPE: 0.02 %
+Test Metrics:
+  MAE: 21247.12
+  RMSE: 63897.70
+  R²: 0.889748
+  Adjusted R²: 0.889111
+  MAPE: 20.90 %
+===============================================

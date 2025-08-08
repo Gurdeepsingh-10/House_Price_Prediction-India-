@@ -14,3 +14,19 @@ Test Metrics:
   Adjusted R²: 0.918020
   MAPE: 36.20 %
 ===============================================
+
+=== XGBoost Regressor - 2025-08-08 18:41:42 ===
+Training Time: 1.02 sec
+Train Metrics:
+  MAE: 20148.41
+  RMSE: 39526.67
+  R²: 0.958346
+  Adjusted R²: 0.958286
+  MAPE: 37.98 %
+Test Metrics:
+  MAE: 23284.77
+  RMSE: 54940.66
+  R²: 0.918492
+  Adjusted R²: 0.918020
+  MAPE: 36.20 %
+===============================================
